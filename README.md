@@ -7,7 +7,7 @@ Ths repository will contain basic samples with minmal css.  Component names will
 
 ## Contribute
 
-If you are a developer looking to contribute, please fork or clone this repo, make changes and create a pull request; I will review your changes and merge to master.  
+If you are a developer looking to contribute, please fork or clone this repo, create a branch with your username, make changes and create a pull request; I will review your changes and merge to develop.  
 
 ## Basics
 
@@ -34,3 +34,9 @@ All backend code will be created within the app's root folder under /server
 #### local servers
 
 `cd server && npm run start`
+
+
+## Branches
+
+- master
+- develop
